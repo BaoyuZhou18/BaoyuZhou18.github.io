@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{talks.html}, nofooter  
+==Baoyu Zhou -- Talks
+
+
+- *Fast, Efficient and Practical Algorithms for Nonlinear Optimization* \n
+Texas Tech University, Lubbock, TX, December 2021
+
+- *SQP Methods for Nonlinear Equality Constrained Stochastic Optimization* \n
+INFORMS Annual Meeting, Anaheim, CA, October 2021 \n
+MOPTA Conference (virtual), Bethlehem, PA, August 2021 \n
+SIAM Conference on Optimization (virtual), Spokane, WA, July 2021
+
+- *Manifold Sampling for Optimizing Nonsmooth Nonconvex Compositions* \n
+MOPTA Conference (virtual), Bethlehem, PA, August 2021 \n
+SIAM Conference on Computing Science and Engineering (virtual), Fort Worth, TX, March 2021 \n
+INFORMS Annual Meeting (virtual), National Harbor, MD, November 2020
+
+- *Limited-Memory BFGS with Displacement Aggregation* \n
+INFORMS Annual Meeting, Seattle, WA, October 2019 \n
+MOPTA Conference, Bethlehem, PA, August 2019
